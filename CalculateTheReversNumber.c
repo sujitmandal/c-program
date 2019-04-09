@@ -1,8 +1,7 @@
 /* CalculateTheReversNumber */
 #include <stdio.h>
-#include <conio.h>
 
-/* This code created by Sujit Mandal */
+/* This program created by Sujit Mandal */
 
 int main()
 {
@@ -19,6 +18,5 @@ int main()
         n/=10;
     }
     printf("\nRevers number is: %d",r_1);
-    getch();
 }
 
